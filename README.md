@@ -1,4 +1,4 @@
-# TIC-TAC-TOI-and-AI
+# TIC-TAC-TOE-and-AI
 minimax algo
 
 SS
